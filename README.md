@@ -23,3 +23,13 @@ Comandos disponíveis:
 
 ### `yarn start`
 Para rodar a aplicação web no navegador
+
+## Mobile
+Baixe o Expo em sua loja de aplicativos.
+
+No terminal rode o comando:
+
+### `expo start`
+Para rodar a aplicação mobile
+
+Depois escaneie o QRCode no aplicativo Expo (Android) e no Câmera (iOS) para rodar.
